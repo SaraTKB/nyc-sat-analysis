@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this analysis or code, please cite the archived research project below."
+
+title: "NYC Public High School SAT Performance Analysis"
+
+authors:
+  - family-names: "Tonekaboni"
+    given-names: "Sara"
+    orcid: "https://orcid.org/0000-0001-7337-3076"
+    affiliation: "Harvard University"
+
+repository-code: "https://github.com/SaraTKB/nyc-sat-analysis"
+url: "https://github.com/SaraTKB/nyc-sat-analysis"
+
+preferred-citation:
+  type: generic
+  title: "Borough Differences and School-Level Associations in NYC Public High School SAT Performance"
+  authors:
+    - family-names: "Tonekaboni"
+      given-names: "Sara"
+      orcid: "https://orcid.org/0000-0001-7337-3076"
+  year: 2026
+  doi: "10.5281/zenodo.22065620"
+  url: "https://doi.org/10.5281/zenodo.22065620"
