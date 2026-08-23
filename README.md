@@ -28,6 +28,26 @@ The analysis includes:
 * SAT Reading and SAT Math scores showed a strong positive relationship (**r = 0.928**).
 * SAT Reading explained approximately **86.2% of the variation in SAT Math scores (R² = 0.862)**.
 * Borough was significantly associated with whether a school's average SAT Math score was below or at/above 500.
+  
+## Research Figures
+
+### Distribution of Average SAT Math Scores
+
+![Distribution of Average SAT Math Scores](figures/sat_math_distribution.png)
+
+The distribution is right-skewed, with most NYC public high schools having average SAT Math scores in the low-to-mid 400s.
+
+### SAT Math Scores by Borough
+
+![SAT Math Scores by Borough](figures/sat_math_by_borough.png)
+
+SAT Math performance varies across NYC boroughs, with statistically significant differences in borough-level means.
+
+### SAT Reading vs. SAT Math
+
+![SAT Reading vs SAT Math](figures/sat_reading_vs_math.png)
+
+SAT Reading and Math scores show a strong positive relationship, with Pearson correlation **r = 0.928** and **R² = 0.862**.
 
 ## Tools
 
